@@ -53,11 +53,9 @@ The system runs a **Dual-Feature Pipeline** extracting parallel representations:
 
 ### Diagnostics Dashboard
 The home interface allows users to easily upload audio files into the secure AI inference engine.
+
 ![Diagnostics Dashboard](images/home.png)
 
-### Model Pipeline Flowchart
-The system flow chart detailing feature extraction, spatial map alignment, and inference generation:
-![System Architecture](images/class%20diagram.png)
 
 ### Result Interpretation & Metrics Breakdown
 The prediction system delivers clear, actionable diagnostic classification accompanied by explicit confidence metrics for transparency.
@@ -68,11 +66,17 @@ The prediction system delivers clear, actionable diagnostic classification accom
 By utilizing **Guided Grad-CAM**, gradients are backpropagated to the final convolutional layers to isolate specific spectro-temporal regions influencing the diagnosis. This confirms that the model focuses on vital clinical sound patterns rather than ambient background noise.
 * *Asthma & COPD:* High-energy regions map directly to wheezing frequency bands.
 * *Pneumonia:* Concentrates on lower-frequency segments.
+* 
 ![Explainable AI Dashboard](images/explainable%20ai.png)
 
 ### Educational Disease Layer
 An informative dashboard providing medical context, symptoms, and potential severity definitions for users interpreting their results.
+
 ![Disease Info Layer](images/disease%20info.png)
+
+### Model Pipeline Flowchart
+The system flow chart detailing feature extraction, spatial map alignment, and inference generation:
+![System Architecture](images/class%20diagram.png)
 
 ---
 
