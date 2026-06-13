@@ -86,7 +86,6 @@ The system was evaluated using stratified patient-wise 5-fold cross-validation t
     * Asthma & Pneumonia: 0.98
 
 ## 👥 Project Team
-* **Students:** G. Ashrith (22H51A6683) & S. Sravan (22H51A66C1)
+* **Students:** G. Ashrith & S. Sravan
 * **Department:** Computer Science and Engineering (AI & ML)
 * **Institution:** CMR College of Engineering & Technology, Hyderabad
-* **Mentor / Guide:** Mrs. A. Spandana (Assistant Professor)
