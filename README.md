@@ -61,6 +61,7 @@ The system flow chart detailing feature extraction, spatial map alignment, and i
 
 ### Result Interpretation & Metrics Breakdown
 The prediction system delivers clear, actionable diagnostic classification accompanied by explicit confidence metrics for transparency.
+
 ![Result Interpretation](images/visualize.png)
 
 ### Explainable AI Visualization
